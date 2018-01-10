@@ -8,5 +8,5 @@ Spun magnets near coils to cause a change in flux to enable the LED to light up 
 ## Two-Phase Generator Side View
 ![Dimensions-2](Two-Phase_Generator_Side_View.jpg)
 
-## Circuit Schematic of EMG Signal Interface
+## Two-Phase Generator Top View
 ![Dimensions-3](Two-Phase_Generator_Top_View.jpg)
