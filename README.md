@@ -1,1 +1,1 @@
-# Two-Phase-Generator
+# Two-Phase Generator
